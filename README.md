@@ -1,3 +1,5 @@
+## In this repository, I created a small movie search application using OMDB API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
